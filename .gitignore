@@ -1,0 +1,17 @@
+# Runtime files
+data/
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Go build output
+/bin/
+*.exe
+*.out
+
+# macOS
+.DS_Store
+
